@@ -78,7 +78,6 @@ communityBtn.click();
 userNameField.sendKeys("elenanij");
 
 
-
     }
 
 }
